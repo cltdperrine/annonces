@@ -1,0 +1,1 @@
+// la validation = vérifie le format à envoyer (nombre de lettres, etc)
